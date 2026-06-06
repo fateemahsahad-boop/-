@@ -1,0 +1,8 @@
+{
+  "name": "AI Financial Assistant",
+  "description": "ผู้ช่วยวิเคราะห์การเงินอัจฉริยะด้วย AI สำหรับบันทึก วิเคราะห์พฤติกรรม และแนะนำเป้าหมายออมเงินอย่างมีประสิทธิภาพ",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
